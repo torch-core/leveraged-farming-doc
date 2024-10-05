@@ -2,16 +2,17 @@
 
 ## 🔥 Our Protocol
 
-* [⭐ How to Participate](README.md)
-  * [Wallet Setup](our-protocol/how-to-participate/wallet-setup.md)
-  * [How to get USDT on TON](our-protocol/how-to-participate/how-to-get-usdt-on-ton.md)
-  * [How to get tsTON](our-protocol/how-to-participate/how-to-get-tston.md)
-  * [How to Get stTON](our-protocol/how-to-participate/how-to-get-stton.md)
-* [🚀 Our Products](our-protocol/our-products.md)
+* [🚀 Our Products](README.md)
 * [🧑‍🏫 Step-by-step Guide](our-protocol/step-by-step-guide/README.md)
   * [Access the Yield Page](our-protocol/step-by-step-guide/access-the-yield-page.md)
   * [Invite more to earn more later](our-protocol/step-by-step-guide/invite-more-to-earn-more-later.md)
   * [Explore our products on the yield page](our-protocol/step-by-step-guide/explore-our-products-on-the-yield-page.md)
+* [⭐ How to Participate](<README (1).md>)
+  * [Wallet Setup](our-protocol/how-to-participate/wallet-setup.md)
+  * [How to get USDT on TON](our-protocol/how-to-participate/how-to-get-usdt-on-ton.md)
+  * [How to get tsTON](our-protocol/how-to-participate/how-to-get-tston.md)
+  * [How to Get stTON](our-protocol/how-to-participate/how-to-get-stton.md)
+* [🔥 Welcome to Torch](our-protocol/welcome-to-torch.md)
 
 ## 💰 Saving Account
 
