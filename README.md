@@ -1,28 +1,27 @@
-# 🚀 Our Products
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
 
-We offer a variety of innovative products designed to help you maximize your returns and enhance your experience on the **TON blockchain**. Explore our products below:
+# ☺️ Welcome to Torch
 
-## 1. [**Leveraged Yield Farming (LYF)**](broken-reference)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Our **Leveraged Yield Farming (LYF)** allows you to borrow assets and farm with up to **3x leverage**, boosting your farming rewards. Whether you're looking to **maximize your yield** or take advantage of market opportunities, LYF helps you achieve higher returns by increasing your farming position.
+## About Us - Stable Swap on TON <a href="#id-43eb" id="id-43eb"></a>
 
-**Key Features:**
+At **Torch Finance**, we are building the premier **Stable Swap on TON**, dedicated to providing users with ultra-low slippage for USD, Liquid Staking Tokens, and yield token swaps. Our mission is to create a seamless, efficient DeFi experience on TON blockchain.
 
-* Farm with borrowed assets to earn **3x** the potential rewards.
-* Use popular assets like **USDT**, **tsTON**, and **stTON**.
-* Redeem and claim your rewards while repaying the loan.
+## Story Behind Leveraged Yield Farming <a href="#da0c" id="da0c"></a>
 
-## 2. [**Saving Account**](broken-reference)
+TON Foundation injected $24 million to boost DeFi on platforms like DeDust and STON through LST farming pools. Seeing the growing demand and potential for higher returns in these pools, we at Torch Finance decided to take things a step further by launching **leveraged yield farming**.&#x20;
 
-The **Saving Account** is designed for **conservative investors** looking for steady, low-risk returns. You can lend your assets to the pool, earning interest without the need to actively manage positions.
-
-**Key Features:**
-
-* Earn a stable interest rate from lending assets.
-* Interest rates dynamically adjust based on the borrowing demand.
-* Ideal for users who prefer low-risk, passive income strategies.
-
-## Which Product is Right for You?
-
-* **Leveraged Yield Farming**: Ideal for **active, risk-taking investors** looking for higher returns by utilizing leverage.
-* **Saving Account**: Perfect for **stable, conservative investors** who want a more predictable and steady interest income with lower risk.
+Our goal is to empower users to easily amplify their yields, providing them with a streamlined approach to earn greater rewards in the booming DeFi ecosystem on TON.
