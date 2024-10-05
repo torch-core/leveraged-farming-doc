@@ -1,15 +1,6 @@
 ---
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
+cover: .gitbook/assets/未命名.jpg
+coverY: 0
 ---
 
 # ☺️ Welcome to Torch
